@@ -1,0 +1,9 @@
+# Ignore all files ending with ~ (Emacs backup files)
+*~
+
+# Other common ignores
+node_modules/
+vendor/
+.env
+.DS_Store
+
